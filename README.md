@@ -25,15 +25,7 @@
 ---
 
 ### **My Projects**
-<p>
-  <ul>
-    <li>🕵️ <a href="https://github.com/MohdSaad01/Caesar_Cipher"><strong>Caesar Cipher</strong></a> — Text encryption and decryption tool using the Caesar Cipher algorithm in Python.</li>
-    <li>🎮 <a href="https://github.com/MohdSaad01/Hangman_python"><strong>Hangman Game</strong></a> — Python game with ASCII art and letter-guessing logic.</li>
-    <li>🔐 <a href="https://github.com/MohdSaad01/Password_Generator"><strong>Password Generator</strong></a> — Secure random password generator using Python.</li>
-    <li>🎢 <a href="https://github.com/MohdSaad01/Rollercoaster_Eligibility"><strong>Rollercoaster Eligibility</strong></a> — Ticket pricing calculator based on age and height.</li>
-    <li>🗺️ <a href="https://github.com/MohdSaad01/Treasure_Hunt"><strong>Treasure Hunt</strong></a> — A simple text-based adventure game built in Python.</li>
-  </ul>
-</p>
+<p> <ul> <li>☕ <a href="https://github.com/MohdSaad01/Virtual_Coffee"><strong>Virtual Coffee Machine</strong></a> — A console-based coffee maker simulator built using Python OOP principles.</li> <li>🧠 <a href="https://github.com/MohdSaad01/Quiz_Console"><strong>Quiz Console</strong></a> — True/False quiz game using Object-Oriented Programming with score tracking.</li> <li>📦 <a href="https://github.com/MohdSaad01/python_mini_projects"><strong>Python Mini Projects</strong></a> — A collection of beginner-friendly Python projects like Caesar Cipher, Hangman, Password Generator, and more.</li> </ul> </p>
 
 ---
 
