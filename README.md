@@ -11,7 +11,7 @@
 - 🐍 Learning **Python Programming**
 - 💻 Exploring basic **Data Structures**
 - 🔧 Passionate about **computer hardware** and system building.
-- 🚀 On a journey to explore **AI/ML**, **Web Development**, and **Tech Projects**
+- 🚀 On a journey to explore **AI/ML**, **Web Development**, and **More**
 
 ---
 
