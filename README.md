@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Mohd Saad Ansari!</h1>
 
 <p align="center">
-  <em>Learning Programming | Bachelor's of Computer Application  | Tech Explorer</em>
+  <em>Learning Programming | Tech Explorer | Bachelor's of Computer Application  </em>
 </p>
 
 ---
