@@ -1,14 +1,14 @@
 <h1 align="center">Hi, I'm Mohd Saad Ansari!</h1>
 
 <p align="center">
-  <em>Learning Python | BCA First Year Student | Tech Explorer</em>
+  <em>Learning Programming | BCA First Year Student | Tech Explorer</em>
 </p>
 
 ---
 
 ### **About Me**
 - 🎓 BCA First Year Student 
-- 🐍 Learning **Python Programming**
+- 🐍 Learning **Python & C Programming**
 - 💻 Exploring basic **Data Structures**
 - 🔧 Passionate about **computer hardware** and system building.
 - 🚀 On a journey to explore **AI/ML**, **Web Development**, and **More**
