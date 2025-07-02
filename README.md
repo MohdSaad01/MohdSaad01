@@ -27,7 +27,7 @@
 
 ### **My Projects**
 <ul>
-  <li>🧠 <a href="https://github.com/MohdSaad01/Quiz_Console"><strong>Quiz Console</strong></a> — True/False quiz game using Object-Oriented Programming with score tracking.</li>
+  <li>📖 <a href="https://github.com/MohdSaad01/FlashLang_Arabic"><strong>FlashLang Arabic</strong></a> — Tkinter based flashcard app to learn Arabic vocabulary through interactive word flipping.</li>
   <li>🐍 <a href="https://github.com/MohdSaad01/python_mini_projects"><strong>Python Mini Projects</strong></a> — A collection of beginner-friendly Python projects.</li>
   <li>🎮 <a href="https://github.com/MohdSaad01/Classic_Snake"><strong>Classic Snake Game</strong></a> — A turtle-graphics based snake game built in Python.</li>
   <li>💾 <a href="https://github.com/MohdSaad01/C_Beginner_Projects"><strong>C Beginner Projects</strong></a> — Mini projects written in C programming language covering input/output, logic, and basic games.</li>  
