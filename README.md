@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Mohd Saad Ansari!</h1>
 
 <p align="center">
-  <em>Learning Programming | Tech Explorer | Bachelor's of Computer Application  </em>
+  <em> Bachelor of Computer Application | Python & C | Learning DSA   </em>
 </p>
 
 ---
@@ -9,7 +9,7 @@
 ### **About Me**
 - 🎓 BCA First Year Student 
 - 🐍 Learning **Python & C Programming**
-- 💻 Exploring basic **Data Structures**
+- 💻 Exploring **Data Structures**
 - 🔧 Passionate about **computer hardware** and **system building**.
 - 🚀 On a journey to explore **AI/ML**, **Web Development**, and **More**
 
