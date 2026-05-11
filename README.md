@@ -9,7 +9,7 @@
 ### **About Me**
 - 🎓 BCA First Year Student 
 - 🐍 Focused on **Python Development**
-- 💻 Practicing **problem-solving using C++** on LeetCode
+- 💻 Practicing **problem-solving** using **Python** on LeetCode
 - 🔧 Passionate about **computer hardware** and **system building**.
 - 🚀 Exploring **AI/ML** concepts and their implementation
 
@@ -54,5 +54,3 @@
 </p>
 
 ---
-
-> “Every expert was once a beginner. Keep learning, keep coding.”
