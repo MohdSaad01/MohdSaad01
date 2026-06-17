@@ -35,6 +35,23 @@
 
 ---
 
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/MohdSaad01/github-stats/generated/overview.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/MohdSaad01/github-stats/generated/overview.svg"
+    />
+    <img alt="GitHub Stats"
+         src="https://raw.githubusercontent.com/MohdSaad01/github-stats/generated/overview.svg" />
+  </picture>
+</p>
+
+---
+
 ### **Top Languages**
 <p align="center">
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MohdSaad01&layout=compact&theme=radical&langs_count=6&hide_border=true" />
