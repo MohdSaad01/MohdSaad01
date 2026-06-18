@@ -15,11 +15,8 @@
 
 ---
 
-### **Languages & Tools**
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MohdSaad01/github-stats/generated/overview.svg#gh-dark-mode-only" />
 </p>
 
 ---
@@ -32,12 +29,6 @@
   <li>🐍 <a href="https://github.com/MohdSaad01/Python_projects"><strong>Python Projects</strong></a> — Collection of Python practice projects covering games, logic building, and basic applications.</li>
   <li>📖 <a href="https://github.com/MohdSaad01/C_Projects"><strong>C Projects (Academic)</strong></a> — Basic C programs created as part of coursework.</li>  
 </ul>
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MohdSaad01/github-stats/generated/overview.svg#gh-dark-mode-only" />
-</p>
 
 ---
 
