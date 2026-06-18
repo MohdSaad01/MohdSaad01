@@ -15,6 +15,7 @@
 
 ---
 
+### **Github Statistics**
 <p align="center">
   <img src="https://raw.githubusercontent.com/MohdSaad01/github-stats/generated/overview.svg#gh-dark-mode-only" />
 </p>
@@ -34,7 +35,7 @@
 
 ### **Top Languages**
 <p align="center">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MohdSaad01&layout=compact&theme=radical&langs_count=6&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/MohdSaad01/github-stats/generated/languages.svg#gh-dark-mode-only" />
 </p>
 
 ---
