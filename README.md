@@ -7,11 +7,11 @@
 ---
 
 ### **About Me**
-- 🎓 BCA First Year Student 
+- 🎓 BCA Second Year Student 
 - 🐍 Focused on **Python Development**
 - 💻 Practicing **problem-solving** using **Python** on LeetCode
 - 🔧 Passionate about **computer hardware** and **system building**.
-- 🚀 Exploring **AI/ML** concepts and their implementation
+- 🦀 Learning **Rust** for compiler, VM, and systems development
 
 ---
 
@@ -27,8 +27,8 @@
   <li>✈️ <a href="https://github.com/MohdSaad01/Flight_Deals"><strong>Flight Deals Notifier</strong></a> — Tracks flight prices using APIs and sends email alerts when prices drop below threshold.</li>
   <li>📚 <a href="https://github.com/MohdSaad01/FlashLang_French"><strong>FlashLang French</strong></a> — Tkinter-based flashcard app for learning French vocabulary through interactive word flipping.</li>
   <li>🎮 <a href="https://github.com/MohdSaad01/Classic_Snake"><strong>Classic Snake Game</strong></a> — Snake game built using Python Turtle graphics.</li>
-  <li>🐍 <a href="https://github.com/MohdSaad01/Python_projects"><strong>Python Projects</strong></a> — Collection of Python practice projects covering games, logic building, and basic applications.</li>
-  <li>📖 <a href="https://github.com/MohdSaad01/C_Projects"><strong>C Projects (Academic)</strong></a> — Basic C programs created as part of coursework.</li>  
+  <li>🐍 <a href="https://github.com/MohdSaad01/Python_projects"><strong>Python Projects</strong></a> — Python projects showcasing problem-solving, automation, and practical software development skills.</li>
+  <li>📖 <a href="https://github.com/MohdSaad01/Dev_Sandbox"><strong>Dev_Sandbox</strong></a> — A collection of projects built while learning and applying programming concepts.</li>  
 </ul>
 
 ---
