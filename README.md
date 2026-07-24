@@ -7,11 +7,12 @@
 ---
 
 ### **About Me**
-- 🎓 BCA Second Year Student 
+- 🎓 **BCA Second Year Student**
 - 🐍 Focused on **Python Development**
-- 💻 Practicing **problem-solving** using **Python** on LeetCode
-- 🔧 Passionate about **computer hardware** and **system building**.
-- 🦀 Learning **Rust** for compiler, VM, and systems development
+- 💻 Practicing **Data Structures & Algorithms**
+- ⚡ Learning **Backend Development**, **Databases**, and **APIs**
+- 🔧 Passionate about **Computer Hardware** and **System Building**
+
 
 ---
 
