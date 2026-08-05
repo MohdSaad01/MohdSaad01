@@ -25,7 +25,7 @@
 
 ### **My Projects**
 <ul>
-  <li>📂 <a href="https://github.com/MohdSaad01/Relay"><strong>Relay</strong></a> — Local-first file transfer application for seamless Windows and Android device communication over local networks.</li>
+  <li>📂 <a href="https://github.com/MohdSaad01/Relay"><strong>Relay</strong></a> — Local first file transfer application for seamless Windows and Android device communication over local networks.</li>
   <li>📋 <a href="https://github.com/MohdSaad01/TaskFlow"><strong>TaskFlow</strong></a> — Collaborative task management web application built with FastAPI, SQLite, Tailwind CSS, and JavaScript.</li>
   <li>📚 <a href="https://github.com/MohdSaad01/FlashLang_French"><strong>FlashLang French</strong></a> — Tkinter-based flashcard app for learning French vocabulary through interactive word flipping.</li>
   <li>✈️ <a href="https://github.com/MohdSaad01/Flight_Deals"><strong>Flight Deals Notifier</strong></a> — Tracks flight prices using APIs and sends email alerts when prices drop below threshold.</li>
