@@ -25,11 +25,10 @@
 
 ### **My Projects**
 <ul>
-  <li>📂 <a href="https://github.com/MohdSaad01/Relay"><strong>Relay</strong></a> — Local first file transfer application for seamless Windows and Android device communication over local networks.</li>
-  <li>📋 <a href="https://github.com/MohdSaad01/TaskFlow"><strong>TaskFlow</strong></a> — Collaborative task management web application built with FastAPI, SQLite, Tailwind CSS, and JavaScript.</li>
-<li>⚙️ <a href="https://github.com/MohdSaad01/NexaCompute"><strong>NexaCompute</strong></a> — A distributed platform coordinating machines to schedule and execute workloads across a shared compute pool.</li>
-  <li>✈️ <a href="https://github.com/MohdSaad01/Flight_Deals"><strong>Flight Deals Notifier</strong></a> — Tracks flight prices using APIs and sends email alerts when prices drop below threshold.</li>
-  
+  <li>📂 <a href="https://github.com/MohdSaad01/Relay"><strong>Relay</strong></a> — A local-first file transfer app for sharing files seamlessly between Windows and Android devices over local networks.</li>
+  <li>📋 <a href="https://github.com/MohdSaad01/TaskFlow"><strong>TaskFlow</strong></a> — A full-stack task management web app for creating, organizing, and managing tasks collaboratively.</li>
+  <li>⚙️ <a href="https://github.com/MohdSaad01/NexaCompute"><strong>NexaCompute</strong></a> — A distributed computing platform that coordinates machines to schedule and execute workloads across a shared compute pool.</li>
+  <li>✈️ <a href="https://github.com/MohdSaad01/Flight_Deals"><strong>Flight Deals Notifier</strong></a> — Tracks flight prices and sends email alerts when fares drop below a set threshold.</li>
 </ul>
 
 ---
