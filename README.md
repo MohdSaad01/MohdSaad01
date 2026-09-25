@@ -26,9 +26,9 @@
 ### **My Projects**
 <ul>
     <li>⚙️ <a href="https://github.com/MohdSaad01/Forge"><strong>Forge</strong></a> — A general deep learning framework for building, training, evaluating, and deploying neural-network models from the ground up.</li>
-  <li>📂 <a href="https://github.com/MohdSaad01/Relay"><strong>Relay</strong></a> — A peer-to-peer file sharing app for seamless transfers between Windows and Android devices over the same network.</li>
-  <li>📋 <a href="https://github.com/MohdSaad01/TaskFlow"><strong>TaskFlow</strong></a> — A full-stack task management web app for creating, organizing, and managing tasks collaboratively. </li>
-  <li>✈️ <a href="https://github.com/MohdSaad01/Flight_Deals"><strong>Flight Deals Notifier</strong></a> — Tracks flight prices and sends email alerts when fares drop below a set             threshold.</li>
+  <li>📂 <a href="https://github.com/MohdSaad01/Relay"><strong>Relay</strong></a> — A peer to peer file sharing app for seamless transfers between Windows and Android devices over the same network.</li>
+  <li>📋 <a href="https://github.com/MohdSaad01/TaskFlow"><strong>TaskFlow</strong></a> — A full stack task management web app for creating, organizing, and managing tasks collaboratively. </li>
+<li>🧩 <a href="https://github.com/MohdSaad01/Nex"><strong>Nex</strong></a> — Content addressed version control system for tracking file changes, creating immutable snapshots, and managing project versions through commits and branches.</li>
 </ul>
 
 ---
