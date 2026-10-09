@@ -10,7 +10,7 @@
 - 🎓 **BCA Second Year Student**
 - 🐍 Focused on **Python Development**
 - 💻 Practicing **Data Structures & Algorithms**
-- ⚡ Learning **Backend Development**, **Databases**, and **APIs**
+- ⚡ Learning **Backend Development**, **Databases**, and **System Design**
 - 🔧 Passionate about **Computer Hardware** and **System Building**
 
 
@@ -46,8 +46,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://leetcode.com/u/MohdSaad01/">
-  <img src="https://img.shields.io/badge/LeetCode-FE7A16?style=for-the-badge&logo=leetcode&logoColor=white" />
-</a>
+    <img src="https://img.shields.io/badge/LeetCode-FE7A16?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="https://codeforces.com/profile/MohdSaad01">
+    <img src="https://img.shields.io/badge/Codeforces-E74C3C?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
 </p>
 
