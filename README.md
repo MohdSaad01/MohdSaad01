@@ -48,7 +48,7 @@
   <a href="https://leetcode.com/u/MohdSaad01/">
     <img src="https://img.shields.io/badge/LeetCode-FE7A16?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
-  <a href="https://codeforces.com/profile/MohdSaad01">
+  <a href="https://codeforces.com/profile/theSaad">
     <img src="https://img.shields.io/badge/Codeforces-E74C3C?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
 </p>
